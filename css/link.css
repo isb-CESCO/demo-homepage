@@ -1,0 +1,28 @@
+.link {
+  display: block;
+  font-size: 1.5rem;
+
+  text-decoration: none;
+  color: black;
+
+  border: 3px solid black;
+  border-radius: 16px;
+
+  padding: 1rem;
+  margin: 1rem 0;
+
+  transition: 0.3s;
+}
+
+.icon {
+  width: 2rem;
+  vertical-align: middle;
+}
+
+#mail:hover {
+  background-color: #dbebff;
+}
+
+#github:hover {
+  background-color: #d8d8d8;
+}

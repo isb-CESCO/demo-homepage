@@ -1,0 +1,23 @@
+body {
+  width: 75vw;
+  margin: 0 auto;
+}
+
+#menubar {
+  margin: 5vh auto;
+  padding-bottom: 5vh;
+  border-bottom: 1px solid black;
+}
+
+.menu {
+  font-size: 2rem;
+  margin: 0 5vw;
+
+  text-decoration: none;
+  color: gray;
+
+  transition: 0.5s;
+}
+.menu:hover {
+  color: black;
+}
